@@ -5,7 +5,6 @@ A professional LeetCode-style coding practice platform built with React, Vite, a
 ## Features
 
 ✅ **Code Editor** - Write and execute code in JavaScript, Python, and Java
-
 ✅ **Test Cases** - Run test cases and see results with performance metrics
 ✅ **Problem Solving** - 8 curated problems with hints and solutions
 ✅ **Submission History** - Track all your code submissions
